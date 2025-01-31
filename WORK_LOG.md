@@ -1,9 +1,11 @@
 Name: YOUR NAME HERE
 
-| Date       |    Time    |                                                               Update |
-|:-----------|:----------:|---------------------------------------------------------------------:|
-| January 27 | 12:40-1:45 | I thought with lots of quality thinking throughout the class period. |
-|            |            |                                                                      |
+| Date       |      Time       |                                                                                                                                                                                                                                                                                                                        Update |
+|:-----------|:---------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| January 27 | 12:30pm-1:50pm  |                                                                                                                                                                                                                                                          I thought with lots of quality thinking throughout the class period. |
+| January 29 | 10:40om-11:30am |                                      I worked beyond my original thought process of a solution and worked with Mr. Blick (aka you) and other classmates to work on how to make the problem smaller. The solution that we came up with is to decrease number of coins used when branching off while also making target smaller |
+| January 30 |   8:50-9:45pm   | Continued to think through how this solution would work and what kind of data structures and things I will have to take into account. I did not get any code down because I thought it was better spent understanding this solution and how I could implement it rather than coding up a easier way to approach this problem. |
+| January 31 |                 |                                                                                                                                                                                                                                                                                                                               |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.

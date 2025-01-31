@@ -25,6 +25,12 @@ public class MakingChange {
         // by footprinting each sequence of coins with a code at the end to understand that they are the same.
         // you can use the ones place to identify how many coins were used in that place.
 
+
+        //The ideas above were my original ideas to solving the problem but after further consideration with a hint
+        //it seems like it is a good idea to eliminate duplicates and make the problem smaller by branching down whether
+        //you use a certain coin or not there and eliminate it from the set in one of the ways down.
+        //this decreases the number of coins while also decreasing the target so you can make the problem smaller
+        //and improve efficiency, speed, and memory usage.
         return 0;
     }
 }
